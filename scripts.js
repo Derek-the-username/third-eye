@@ -9,7 +9,7 @@ let particlesArray = [];
 let peopleArray = [];
 let nameArray = [];
 let decsArray = [];
-let submitted = false;
+let submitted = true;
 
 
 let mouse = {

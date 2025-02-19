@@ -10,7 +10,7 @@
 }
 
 .search-container {
-    position: absolute;
+    position: unset;
     top: 10px;
     right: 50px;
     width: max-content;
